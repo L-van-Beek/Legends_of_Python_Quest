@@ -3,5 +3,5 @@
 # explore statidtics: 
 #Code: 
 
-futball_players = [{}, {}, {}, {}, {}]
-futball_players.append() 
+futball_players = [{'name': , 'position': '', 'jersey number': , 'goals scored': , 'games played': }, {}, {}, {}, {}]
+
